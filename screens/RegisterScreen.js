@@ -181,6 +181,9 @@ const RegisterScreen = () => {
             <Text style={{ fontSize: 18, fontWeight: "bold" }}>Login Now</Text>
           </Pressable>
         </View>
+        <View>
+          
+        </View>
       </KeyboardAvoidingView>
     </SafeAreaView>
   );
